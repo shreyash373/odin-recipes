@@ -1,0 +1,27 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(191, 31, 47);
+    width: fit-content;
+    margin:  0 auto;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: turquoise;
+}
+a{
+    color: rgb(191, 31, 47);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.list{
+    width: fit-content;
+    margin: 0 auto;
+}
+ul{
+    display: inline-block;
+    text-align: left;
+}

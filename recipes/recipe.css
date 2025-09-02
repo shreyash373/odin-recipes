@@ -1,0 +1,59 @@
+.macncheese{
+    background-color: #FFB347; /* cheesy orange */
+    font-family: Arial, sans-serif;
+}
+.gulabjamun{
+    background-color: rgb(153, 101, 21);
+    font-family: Arial, sans-serif;
+}
+.chai{
+    background-color: #C69C6D;
+    font-family: Arial, sans-serif;
+}
+ h1,h3{
+    text-align: center;
+ }
+ .img-parent{
+    text-align: center;
+ }
+ img{
+    display: block;
+    margin:  0 auto;
+ }
+ 
+.about{
+    width: fit-content;
+    margin: 0 auto;
+ }
+ h2,p{
+    display: inline-block;
+ }
+
+.unlist,.ollist{
+    width: fit-content;
+    margin: 0 auto;
+ }
+ ul,ol{
+    display: inline-block;
+    text-align: left;
+ }
+
+.unlist.mac-ingredients,.ollist.mac-procedure{
+    color: rgb(26, 31, 113);
+ }
+ .unlist.chai-ingredients,.ollist.chai-procedure{
+    color: rgb(255, 243, 224);
+ }
+  .unlist.gulab-ingredients,.ollist.gulab-procedure{
+    color: rgb(62, 34, 15);
+}
+
+.mac-home a{
+    font-size: 25px;
+}
+.gulab-home a{
+    font-size: 25px;
+}
+.chai-home a{
+    font-size: 25px;
+}
